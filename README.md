@@ -1,4 +1,4 @@
-#PhoneMailScraper
+# PhoneMailScraper
 
 This project aims to scrap your clipboard copied (CTRL + C) content for phone numbers and e-mail addresses and store it in the clipboard copy replacing your original data.
 
